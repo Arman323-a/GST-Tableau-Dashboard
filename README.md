@@ -37,8 +37,8 @@ Lack of centralized visibility into GST revenue trends, growth patterns, and sta
 - Clean and user-friendly layout
 
 ##  Dashboard Preview
-![Dashboard 1](gst-ss1.png)
-![Dashboard 2](gst-ss2.png)
+![Dashboard 1](gst.ss1.png)
+![Dashboard 2](gst.ss2.png)
 
 ##  Impact
 - Reduced manual reporting effort by ~30–35%
