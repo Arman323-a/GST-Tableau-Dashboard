@@ -37,15 +37,15 @@ Lack of centralized visibility into GST revenue trends, growth patterns, and sta
 - Clean and user-friendly layout
 
 ##  Dashboard Preview
-gst-ss1.png
-gst-ss2.png
+gst.ss1.png
+gst.ss2.png
 
-## 🚀 Impact
+##  Impact
 - Reduced manual reporting effort by ~30–35%
 - Improved data analysis speed by 2x
 - Enabled quick decision-making through visual insights
 
-## 📁 Files Included
+##  Files Included
 - Tableau Dashboard (.twbx)
 - Dataset (Excel/CSV)
 - Dashboard Screenshot
